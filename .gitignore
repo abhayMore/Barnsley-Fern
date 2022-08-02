@@ -259,3 +259,15 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Barnsley-Fern/Dependencies/SFML
+/Barnsley-Fern/sfml-window-d-2.dll
+/Barnsley-Fern/sfml-window-2.dll
+/Barnsley-Fern/sfml-system-d-2.dll
+/Barnsley-Fern/sfml-system-2.dll
+/Barnsley-Fern/sfml-network-d-2.dll
+/Barnsley-Fern/sfml-network-2.dll
+/Barnsley-Fern/sfml-graphics-d-2.dll
+/Barnsley-Fern/sfml-graphics-2.dll
+/Barnsley-Fern/sfml-audio-d-2.dll
+/Barnsley-Fern/sfml-audio-2.dll
+/Barnsley-Fern/openal32.dll
