@@ -4,7 +4,6 @@
 #include <cstdlib>
 #include <ctime>
 
-
 int mapValue(double value, double low1, double high1, int low2, int high2)
 {
 	return static_cast<int>(low2 + static_cast<float>((value - low1) * (high2 - low2)) / (high1 - low1));
