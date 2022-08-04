@@ -12,6 +12,13 @@ probability associated for certain equations, inshort having a weightage over an
 >0.07% <br/> 
 
 #### FURTHER ADDITIONS 
-- [ ] Reset/Draw again button to generate the fern
-- [ ] Change color gradiently
-- [ ] Scrollbar for changing equations' coefficient
+- [ ] Reset/Draw again operation to generate the fern again.
+- [ ] Change color gradiently.
+- [ ] Variable change in equations' coefficient. (To have different shape of the fern)
+- [ ] Add UI buttons.
+	- [ ] Color Gradient Button. (Change back & forth from green to rainbow)
+	- [ ] Add Stop/Start Button to stop iterations. (optional) 
+	- [ ] Scrollbar wheel for the variable change in the eqns cooeficient.
+		- [ ] Four scrollbar for 4 equations.
+		
+
